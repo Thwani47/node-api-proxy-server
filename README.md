@@ -18,5 +18,5 @@ API_BASE_URL="https://openweathermap.org/data/2.5/weather"
 API_KEY_NAME="appid"
 API_KEY_VALUE="<YOUR OpenWeather API Key>"
 ```
-The project is hosted on Heroku and can be accessed here: https://thwani-weather-app.herokuapp.com/
+The project is hosted on Heroku and can be accessed here: https://wild-plum-reindeer-coat.cyclic.app/
 
